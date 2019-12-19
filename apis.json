@@ -1,0 +1,58 @@
+{
+    "name": "SpeakerRate",
+    "description": "SpeakerRate is a site built to find speakers, provide constructive feedback for talks, and research upcoming events.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/937-speakerrate.jpg",
+    "tags": [
+        "have api",
+        "marketplaces",
+        "polls",
+        "social"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/speakerrate\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "SpeakerRate",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/937-speakerrate.jpg",
+            "humanURL": "http:\/\/speakerrate.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/speakerrate-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/speakerrate.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.speakerrate.com"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.speakerrate.com\/rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/speakerrate"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/speakerrate"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/speakerrate"
+        }
+    ]
+}
